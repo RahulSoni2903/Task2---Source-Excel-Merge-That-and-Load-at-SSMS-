@@ -56,7 +56,8 @@ Each file contains a sheet named **Data$** which is read during execution.
 
 - OLE DB Destination (loads data into SQL Server)
 
--- Excel Source Configuration
+- Excel Source Configuration
+  
 <img width="775" height="727" alt="Excel Config " src="https://github.com/user-attachments/assets/0f8d09f9-7ca8-474b-ac4c-c814c20ebc0f" />
 - Connection Manager created for Excel.
 
