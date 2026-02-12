@@ -57,8 +57,7 @@ Each file contains a sheet named **Data$** which is read during execution.
 - OLE DB Destination (loads data into SQL Server)
 
 - Excel Source Configuration
-<img width="775" height="727" alt="Excel Config " src="https://github.com/user-attachments/assets/be7a-4543-8d67-4e12fc732d51" />
-
+<img width="1013" height="520" alt="Excel Connection managaer Config " src="https://github.com/user-attachments/assets/f51e7624-fc20-4ce1-aa17-3bf88eed303b" />
 - Connection Manager created for Excel.
 
 Reads from sheet Data$.
@@ -69,9 +68,11 @@ Reads from sheet Data$.
 - Configured with Expressions to dynamically update file path.
 
 Example path:
-
-Code
 C:\Users\Aum S\Desktop\Inkey Internship\SSIS\05-02-2026\Excel1.xlsx
+
+- OLEDB Destination Configration
+<img width="765" height="732" alt="Sql Configraion" src="https://github.com/user-attachments/assets/3adbc284-4fd0-4717-b8d7-8cb6df4c8ff2" />
+
 ### 4. Foreach Loop Configuration
 <img width="748" height="716" alt="Foreach Configration " src="https://github.com/user-attachments/assets/380c7dfe-25ab-48e8-ad97-c68e51d71bff" />
 
